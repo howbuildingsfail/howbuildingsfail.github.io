@@ -6,3 +6,5 @@ output:
 ---
 
 
+- [github](https://github.com/howbuildingsfail/howbuildingsfail.github.io)
+- [soundcloud](https://soundcloud.com/howbuildingsfail)
